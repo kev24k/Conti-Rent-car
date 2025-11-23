@@ -81,7 +81,7 @@ def menu_principal():
         elif op == "4": dar_baja_modelo(flota_autos)
         elif op == "5": ver_flota(flota_autos)
         elif op == "0": 
-            print("Cerrando sistema...")
+            print("Cerrando sistema... :)")
             break
         else: 
             print("Opción no válida, intente de nuevo.")
